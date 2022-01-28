@@ -1,6 +1,6 @@
 # Spring REST Service
 
-Generated with start.spring.iom, using Spring Data. Documented using Spring REST Docs.
+Generated with [start.spring.io](https://start.spring.io/), using Spring Data. Documented using Spring REST Docs.
 
 [Spring Initializr - Generate new Spring Rest Service](https://start.spring.io/#!type=maven-project&language=java&platformVersion=2.6.3&packaging=jar&jvmVersion=11&groupId=com.example&artifactId=spring.rest.service&name=spring-rest-service&description=Demo%20project%20using%20Spring%20Web%20and%20Spring%20REST%20Docs&packageName=com.example.spring.rest.service&dependencies=configuration-processor,web,data-mongodb,restdocs)
 
