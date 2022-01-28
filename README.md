@@ -6,13 +6,11 @@ Generated with start.spring.iom, uses Spring Data and .
 
 ## Spring Resources
 
-[Spring Data Rest Documentation](https://spring.io/projects/spring-data-rest)
+[Spring Data REST](https://spring.io/projects/spring-data-rest) is part of the umbrella Spring Data project and makes it easy to build hypermedia-driven REST web services on top of Spring Data repositories.
 
-[Spring REST Reference Guide]('https://docs.spring.io/spring-data/rest/docs/current/reference/html/#preface')
+[Spring REST Reference Guide](https://docs.spring.io/spring-data/rest/docs/current/reference/html/#preface)
 
-Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run".
-
-[Spring Boot](https://spring.io/projects/spring-boot)
+[Spring Boot](https://spring.io/projects/spring-boot) makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run".
 
 ## Getting Started
 
