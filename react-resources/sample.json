@@ -1,6 +1,0 @@
-{
-    "items": [
-      { "id": 1, "name": "Apple",  "price": "$12" },
-      { "id": 2, "name": "Microsoft", "price": "$5" }
-    ] 
-  }
